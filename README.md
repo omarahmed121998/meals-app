@@ -2,13 +2,7 @@
 
 A new Flutter project.
 
-## Getting Started
 
-
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 
 ![image1](https://user-images.githubusercontent.com/76234750/143664571-518d5c0c-8b7f-45c2-9a08-1d419fbdba9d.jpeg)
 ![image2](https://user-images.githubusercontent.com/76234750/143664582-d2962510-ba01-4c37-9ab2-cf1de113f067.jpeg)
